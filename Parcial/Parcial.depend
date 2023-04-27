@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\gonza\documents\parcial\pila.c
+	"pila.h"
+
+1490112217 c:\users\gonza\documents\parcial\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1682538335 source:c:\users\gonza\documents\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
